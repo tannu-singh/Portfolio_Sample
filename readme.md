@@ -5,12 +5,13 @@ e-mail: singhtannu2@gmail.com
 Phone: (704)9046021
 F1 - OPT, United States 
 
+### Education
 
-
+MS in Computer Science thesis at UNC Charlotte    08/2018-07/2020
 
 ### Projects
 
-#### Semeval2019 Emocontext
+#### [Semeval2019 Emocontext](https://github.com/tannu-singh/Semeval2019)
 
 
 The task of this challenge was to classify a series of dialogues between human and robot into four sentiments: happy, angry, sad, others. We extented the model from the paper [DialogueRNN: An Attentive RNN for Emotion Detection in Conversations](https://arxiv.org/pdf/1811.00405.pdf). Using Bi-LSTM we suceesfully implemented the task of multiclass sentiment prediction.
@@ -23,7 +24,7 @@ The goal of the project is to implement collaborative filtering and content base
 
 ![](https://github.com/tannu-singh/Hotel-Recommendation-System-/blob/master/Rating_Count.jpg)
 
-#### Fundraising Forecast 
+#### [Fundraising Forecast](https://github.com/tannu-singh/Fundraising-Forecast-Model)
 
 Developed a model to predict whether a donor will donate next month, next quarter, or next year. The dataset which I used was collected over last 13 years and I derived features from the dataset.
 
@@ -36,7 +37,7 @@ Time since first donation
 Time since last donation
 With these features I implemented keras model to predict whether a donor will donate next month, quarter, or year. This model gave the accuracy of 92.7% when the data was balanced.
 
-#### SIR Model
+#### [SIR Model](https://github.com/tannu-singh/SIRmodel)
 
 The SIR models the flows of people between three states: susceptible (S), infected (I), and Recovered (R). Each of those variables represents the number of people in those groups. The parameters alpha and beta partially control how fast people move from being susceptible to infected (alpha), and from infected to resistant (beta).
 
@@ -48,14 +49,14 @@ The system dynamics model presented here includes different stocks and flows. Th
 
 
 
-#### Radar Detection
+#### [Radar Detection](https://github.com/tannu-singh/RadarDetection)
 
 In this project I have tried to implement a simple agent based model of radar and objects. For this project I have used simple 2D svg shapes as an objects. There are four objects (I named it as Pillars) and one robot which act as the radar object detector.
 - When the robot moves around the area or box it is continously emitting radar signals.
 - When any object comes in the way of radar signal and extreme end of the wall then the color of the signal changes to red from green.
 - The surface area covered from the radar signal is displayed in the canvas window next to the simulation.
 
-#### Calculator
+#### [Calculator](https://github.com/tannu-singh/Calculator)
 
 Created a web app using Javascript which logs calculations as they happen and shares those calculations with everyone connected to the website. For example, user A and user B go to your site at the same time. User A calculates "5 + 5", which equals "10". This is logged below the calculator as "5 + 5 = 10". User B is updated about this calculation right after user A posts it. Now, user B calculates "3 x 4".This calculates to “12” and displays "3 x 4=12" right below the prior calculation. User A sees this update immediately after user B posts it.
 
