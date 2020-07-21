@@ -1,8 +1,10 @@
-### Tannu Singh
 [LinkedIn](https://www.linkedin.com/in/tannu-singh/)        
 [Github](https://github.com/tannu-singh/)
-e-mail: singhtannu2@gmail.com        
+
+e-mail: singhtannu2@gmail.com  
+
 Phone: (704)9046021
+
 F1 - OPT, United States 
 
 
