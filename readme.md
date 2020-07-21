@@ -1,4 +1,5 @@
-## Tannu Singh
+I recently graduated from UNC Charlotte with MS in Computer Science Thesis program. My thesis titled 'Combined Word and Network Embeddings: An Analysis Framework of User Opinions on Social Media' proposes various ways to enhance [ESIM](https://arxiv.org/pdf/1609.06038.pdf) model by integrating topological and textual information to the model. During my graduate studies I interned at Cause+Effect Strategy as a Data Science intern where I implemented fundraising forecast mdoel.Before starting my graduate school, I worked as a full stack developer and software developer where I learned and implemented several tools and technologies. I am currently looking for a full-time role in software development or analytics in the US or India.
+
 ### Contact 
 [LinkedIn](https://www.linkedin.com/in/tannu-singh/) ,    [Github](https://github.com/tannu-singh/)
 e-mail: singhtannu2@gmail.com  
@@ -13,11 +14,9 @@ MS in Computer Science thesis at UNC Charlotte    08/2018-07/2020
 
 #### [Semeval2019 Emocontext](https://github.com/tannu-singh/Semeval2019)
 
-
 The task of this challenge was to classify a series of dialogues between human and robot into four sentiments: happy, angry, sad, others. We extented the model from the paper [DialogueRNN: An Attentive RNN for Emotion Detection in Conversations](https://arxiv.org/pdf/1811.00405.pdf). Using Bi-LSTM we suceesfully implemented the task of multiclass sentiment prediction.
 
 #### [Hotel Recommendation System using Pyspark](https://webpages.uncc.edu/stiwari8/)
-
 
 The project aims to provide recommendations of the hotels to a particular user based on the past history of his/her reviews and past data of other reviews.
 The goal of the project is to implement collaborative filtering and content based filtering algorithm with the help of Pyspark to build a recommendation system.
@@ -46,8 +45,6 @@ The system dynamics model presented here includes different stocks and flows. Th
 ![](/images/Model.png)
 
 ![](/images/Graph.png)
-
-
 
 #### [Radar Detection](https://github.com/tannu-singh/RadarDetection)
 
