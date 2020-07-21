@@ -1,6 +1,9 @@
-[LinkedIn](https://www.linkedin.com/in/tannu-singh/)                                                                                      [Github](https://github.com/tannu-singh/)
-e-mail: singhtannu2@gmail.com                                                                                                             Phone: (704)9046021
-F1 - OPT                                                                                                                                  United States 
+### Tannu Singh
+[LinkedIn](https://www.linkedin.com/in/tannu-singh/)        
+[Github](https://github.com/tannu-singh/)
+e-mail: singhtannu2@gmail.com        
+Phone: (704)9046021
+F1 - OPT, United States 
 
 
 You can use the [editor on GitHub](https://github.com/tannu-singh/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
