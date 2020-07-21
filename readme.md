@@ -5,8 +5,11 @@ I recently graduated from UNC Charlotte with MS in Computer Science Thesis progr
 ### Contact 
 
 LinkedIn: [https://www.linkedin.com/in/tannu-singh/](https://www.linkedin.com/in/tannu-singh/) 
+
 Github: [https://github.com/tannu-singh/](https://github.com/tannu-singh/)
+
 e-mail: singhtannu2@gmail.com  
+
 Phone: (704)9046021
 
 ### Education
@@ -16,8 +19,11 @@ MS in Computer Science thesis at UNC Charlotte    08/2018-07/2020
 ### Skills
 
  Languages: Python, Agular, C++, JavaScript (D3.js, Node.js), SQL, Bash, JAVA
+
  Frameworks: Scikit, NLTK, SpaCy, TensorFlow, Keras, Networkx
+
  Tools: Kubernetes, Docker, GIT, PostgreSQL, MySQL, SQLite
+
  Platforms: Linux, Web, Windows, AWS, Oracle
 
 ### Projects
