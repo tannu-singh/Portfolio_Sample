@@ -1,16 +1,24 @@
 ### About Me
 
-I recently graduated from UNC Charlotte with MS in Computer Science Thesis program. My thesis titled 'Combined Word and Network Embeddings: An Analysis Framework of User Opinions on Social Media' proposes various ways to enhance [ESIM](https://arxiv.org/pdf/1609.06038.pdf) model by integrating topological and textual information to the model. During my graduate studies I interned at Cause+Effect Strategy as a Data Science intern where I implemented fundraising forecast mdoel.Before starting my graduate school, I worked as a full stack developer and software developer where I learned and implemented several tools and technologies. I am currently looking for a full-time role in software development or analytics in the US or India.
+I recently graduated from UNC Charlotte with MS in Computer Science Thesis program. My thesis titled 'Combined Word and Network Embeddings: An Analysis Framework of User Opinions on Social Media' proposes various ways to enhance [ESIM](https://arxiv.org/pdf/1609.06038.pdf) model by integrating topological and textual information to the model. During my graduate studies I interned at Cause+Effect Strategy as a Data Science intern where I implemented fundraising forecast mdoel.Before starting my graduate school, I worked as a full stack developer and software developer where I learned and implemented several tools and technologies. I am currently looking for a full-time role in software development or analytics in the US or India. My visa status in the US is F1-OPT.
 
 ### Contact 
-[LinkedIn](https://www.linkedin.com/in/tannu-singh/) ,    [Github](https://github.com/tannu-singh/)
+
+LinkedIn: [https://www.linkedin.com/in/tannu-singh/](https://www.linkedin.com/in/tannu-singh/) 
+Github: [https://github.com/tannu-singh/](https://github.com/tannu-singh/)
 e-mail: singhtannu2@gmail.com  
 Phone: (704)9046021
-F1 - OPT, United States 
 
 ### Education
 
 MS in Computer Science thesis at UNC Charlotte    08/2018-07/2020
+
+### Skills
+
+ Languages: Python, Agular, C++, JavaScript (D3.js, Node.js), SQL, Bash, JAVA
+ Frameworks: Scikit, NLTK, SpaCy, TensorFlow, Keras, Networkx
+ Tools: Kubernetes, Docker, GIT, PostgreSQL, MySQL, SQLite
+ Platforms: Linux, Web, Windows, AWS, Oracle
 
 ### Projects
 
