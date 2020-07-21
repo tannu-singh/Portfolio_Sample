@@ -4,13 +4,13 @@ I recently graduated from UNC Charlotte with MS in Computer Science Thesis progr
 
 ### Contact 
 
-######## LinkedIn: [https://www.linkedin.com/in/tannu-singh/](https://www.linkedin.com/in/tannu-singh/) 
+######## LinkedIn:  [https://www.linkedin.com/in/tannu-singh/](https://www.linkedin.com/in/tannu-singh/) 
 
-######## Github: [https://github.com/tannu-singh/](https://github.com/tannu-singh/)
+######## Github:  [https://github.com/tannu-singh/](https://github.com/tannu-singh/)
 
-######## e-mail: singhtannu2@gmail.com  
+######## e-mail:  singhtannu2@gmail.com  
 
-######## Phone: (704)9046021
+######## Phone:  +1(704)904-6021
 
 ### Education
 
