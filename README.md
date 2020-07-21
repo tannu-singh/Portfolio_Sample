@@ -68,6 +68,6 @@ A test case was developed to make sure that an equation does not start from +, /
 10 logs are shown.
 Results remain the same even when the link is refreshed.
 
-![](https://github.com/tannu-singh/Calculator/blob/master/Snapshot.png)
+![](https://github.com/tannu-singh/Calculator/blob/master/Snapshot.png) 
 
 
