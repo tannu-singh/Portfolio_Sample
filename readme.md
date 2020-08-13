@@ -2,7 +2,7 @@
 
 I recently graduated from UNC Charlotte with MS in Computer Science Thesis program. My thesis titled 'Combined Word and Network Embeddings: An Analysis Framework of User Opinions on Social Media' proposes various ways to enhance [ESIM](https://arxiv.org/pdf/1609.06038.pdf) model by integrating topological and textual information to the model. During my graduate studies, I interned at Cause+Effect Strategy as a Data Science intern where I implemented fundraising forecast mdoel. Before starting my graduate school, I worked as a full stack developer and software developer where I learned and implemented several tools and technologies. I am currently looking for a full-time role in software development or analytics in the US. My visa status in the US is F1-OPT and I am available to start a job immediately.
 
-Resume link: [https://drive.google.com/file/d/1os7Es9JttLMjNk8Cq6T1BOGvPLDf34Pb/view?usp=sharing](https://drive.google.com/file/d/1os7Es9JttLMjNk8Cq6T1BOGvPLDf34Pb/view?usp=sharing)
+Resume link: [https://drive.google.com/file/d/16acCrcg6OYoRj7Pv6qf6aE_V17hTpgLR/view?usp=sharing](https://drive.google.com/file/d/16acCrcg6OYoRj7Pv6qf6aE_V17hTpgLR/view?usp=sharing)
 
 ### Contact 
 
